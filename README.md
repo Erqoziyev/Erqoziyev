@@ -1,2 +1,19 @@
-- 👋 Hi, I’m Shodiyor
+<h1 align="center">.Net Developer</h1>
 
+## Hi there, I am Shodiyor <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
+[![Telegram Badge](https://img.shields.io/badge/@Muhammadamin0809-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Muhammadamin0809)](https://t.me/Muhammadamin0809)
+
+<h2 align="left">👨🏻‍💻 About Me</h2>
+
+- ⚙️ My specialty : .net, asp.net, wpf, postgresql
+- 💻 My programming languages :.c, .cs, .cpp, python
+- ⚔️ Technogies and tools : .net, git, postgresql, 
+- 🌱 Learning all about Najot Ta'lim
+- 📫 Connect with me: [telegram](https://t.me/Muhammadamin0809)
+- ⚡️ Fun fact: I'm a huge fan of Football
+
+## ⚡️ Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Erqoziyev&show_icons=true&theme=gotham" alt="Erqoziyev"/>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Erqoziyev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Erqoziyev"/></a> </p>
