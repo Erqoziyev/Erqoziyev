@@ -24,8 +24,8 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Erqoziyev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
+  <br><br><br><br><br><br><br><br><br>
+  <br>
 </p>
 
 <hr>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Erqoziyev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Erqoziyev"/></a> </p>
